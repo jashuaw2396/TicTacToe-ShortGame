@@ -1,0 +1,4 @@
+﻿  ComputerPlayer.cpp
+c:\users\revii\documents\visual studio 2017\projects\jash's tictactoe\jash's tictactoe\computerplayer.cpp(40): warning C4715: 'ComputerPlayer::PlayerTurn': not all control paths return a value
+  Jash's TicTacToe.vcxproj -> C:\Users\revii\Documents\Visual Studio 2017\Projects\Jash's TicTacToe\Debug\Jash's TicTacToe.exe
+  Jash's TicTacToe.vcxproj -> C:\Users\revii\Documents\Visual Studio 2017\Projects\Jash's TicTacToe\Debug\Jash's TicTacToe.pdb (Partial PDB)

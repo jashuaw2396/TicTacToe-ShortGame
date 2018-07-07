@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\revii\documents\visual studio 2017\projects\jash's tictactoe\jash's tictactoe\</FILEPATH>
+      <FILENAME>console.cpp</FILENAME>
+      <LINE>159</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: '_getch'.</DESCRIPTION>
+    <FUNCTION>System::Console::FlushKeys</FUNCTION>
+    <DECORATED>?FlushKeys@Console@System@@SAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
